@@ -20,7 +20,7 @@
 <br />
 
 # Welcome
-Welcome to the GitHub page of the Ruby on Rails Notes Project for Web Systems Development class. On this repository, you'll find the results of the work within this course. 
+Welcome to the GitHub page of the Ruby on Rails Notes Project for Web Systems Development class at the University of Castilla-La Mancha. On this repository, you'll find the results of the work within this course. 
 <br>
 <br>
 
