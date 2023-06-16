@@ -35,7 +35,9 @@ In order to run this program simply:
 ```
 bundle install
 ```
-and then
+```
+rails assets:precompile
+```
 ```
 rails s
 ```
