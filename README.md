@@ -40,6 +40,7 @@ rails assets:precompile
 ```
 ```
 rails s
+```
 
 ## User Guide
 
