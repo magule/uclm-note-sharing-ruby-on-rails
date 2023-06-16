@@ -38,7 +38,9 @@ rails assets:precompile
 ```
 rails s
 ```
+
 <br />
+
 ## User Guide
 
 [Open User Guide PDF](https://github.com/magule/uclm-note-sharing-ruby-on-rails/blob/main/User_Guide.pdf)
