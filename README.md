@@ -19,15 +19,12 @@
 </div>
 <br />
 
-
-
 # Welcome
 Welcome to the GitHub page of the Ruby on Rails Notes Project for Web Systems Development class. On this repository, you'll find the results of the work within this course. 
 <br>
 <br>
 
 <br />
-
 
 ## Running the program
 
@@ -41,7 +38,7 @@ rails assets:precompile
 ```
 rails s
 ```
-
+<br />
 ## User Guide
 
 [Open User Guide PDF](https://github.com/magule/uclm-note-sharing-ruby-on-rails/blob/main/User_Guide.pdf)
