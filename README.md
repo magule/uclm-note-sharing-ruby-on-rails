@@ -40,4 +40,11 @@ rails assets:precompile
 ```
 ```
 rails s
+
+## User Guide
+
+[Download User Guide PDF](https://github.com/magule/uclm-note-sharing-ruby-on-rails/blob/main/User_Guide.pdf)
+
+
+
 ```
